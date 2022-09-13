@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanat98
-- 👀 I’m interested in web development and optimisation
-- 🌱 I’m currently learning advance css and related presprocessor
+- 👀 I’m a full stack developer
+- 🌱 I’m currently working as software engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
